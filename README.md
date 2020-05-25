@@ -2,9 +2,9 @@
 MacOS kext for Linksys AE1000 WiFi USB Dongle. 
 
 // Notes
-* You can use it for macOS on you Mac or on a Hackintosh system.
-* Everytime you start macOS you need to connect to your WiFi manually by repeating step 7-9
-* If you don't use WiFi for about 15 minutes it will loose connection and you also need to repeat step 7-9
+* You can use it for macOS on you Mac or on a Hackintosh system
+* Everytime you start macOS you need to connect to your WiFi manually by repeating step 7, 8 and 10
+* If you don't use WiFi for about 15 minutes it will loose connection and you also need to repeat step 7, 8 and 10
 
 // Tested on
 * macOS 10.13 High Sierra
@@ -21,5 +21,6 @@ MacOS kext for Linksys AE1000 WiFi USB Dongle.
 7. Open your system preferences
 8. Open the Ralink wireless settings
 9. Add your Wireless Lan profile 
+10. Connect to your new profile
 
 (*) Although it is not recommended to use the /System/Library/Extensions folder it does not seem to work if it is not in this folder. I tried both the /Library/Extensions and /EFI/CLOVER/kexts/ (Hackintosh) folders but without succes.
