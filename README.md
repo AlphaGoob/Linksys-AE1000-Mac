@@ -19,4 +19,4 @@ The WiFi is working but it is not a ideal solution. Everytime you start macOS yo
 8. Open the Ralink wireless settings
 9. Add your Wireless Lan profile 
 
-(*) Although it is not recommended to use the /System/Library/Extensions folder it does not seem to work if it is not in this folder. I tried both the /Library/Extensions and /EFI/CLOVER/kexts/ folders but without succes.
+(*) Although it is not recommended to use the /System/Library/Extensions folder it does not seem to work if it is not in this folder. I tried both the /Library/Extensions and /EFI/CLOVER/kexts/ (Hackintosh) folders but without succes.
