@@ -1,7 +1,7 @@
 # Linksys-AE1000-Mac
 MacOS Kext for Linksys AE1000 WiFi USB Dongle
 
-The WiFi is working but it is not a ideal solution. Everytime you start macOS you need to connect to your WiFi manually. Also if you don't use the WiFi for about 15 minutes it will loose it connection and you will connect manually again.  
+The WiFi is working but it is not a ideal solution. Everytime you start macOS you need to connect to your WiFi manually (steps 7-9). Also if you don't use the WiFi for about 15 minutes it will loose it connection and you will connect manually again. 
 
 // Tested on:
 * macOS 10.13 High Sierra
