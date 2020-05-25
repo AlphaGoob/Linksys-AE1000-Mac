@@ -1,10 +1,12 @@
 # Linksys-AE1000-Mac
-Kext for Linksys AE1000 WiFi USB Dongle. You can use it for macOS on you Mac or on a Hackintosh system.
+Kext for Linksys AE1000 WiFi USB Dongle. 
 
-// Notes:
+You can use it for macOS on you Mac or on a Hackintosh system.
+
+// Notes
 The WiFi is working but it is not a ideal solution. Everytime you start macOS you need to connect to your WiFi manually (steps 7-9). Also if you don't use the WiFi for about 15 minutes it will loose it connection and you will connect manually again. 
 
-// Tested on:
+// Tested on
 * macOS 10.13 High Sierra
 * macOS 10.14 Mojave
 * macOS 10.15 Catalina
